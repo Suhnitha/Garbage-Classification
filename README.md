@@ -43,14 +43,14 @@ trash/
 ## 📷 Sample Output
 
 - Training accuracy/loss curves
-- ![loss_curve](https://github.com/user-attachments/assets/21353aa6-e274-44c3-9748-6050e1cca2fc)
+ ![loss_curve](https://github.com/user-attachments/assets/21353aa6-e274-44c3-9748-6050e1cca2fc)
 
 - Confusion matrix for evaluation
-- ![confusion_matrix](https://github.com/user-attachments/assets/5378d01a-a406-4b83-ae9b-54d9d68aedb9)
+ ![confusion_matrix](https://github.com/user-attachments/assets/5378d01a-a406-4b83-ae9b-54d9d68aedb9)
 
 - Live predictions via Gradio
-- ![trash_pred](https://github.com/user-attachments/assets/ad8d57b7-2c8e-45d9-9a26-a0c65971b0c3)
-- ![cardboard_pred](https://github.com/user-attachments/assets/aabe4d80-0691-4908-a94b-e1304dcdc331)
+ ![trash_pred](https://github.com/user-attachments/assets/ad8d57b7-2c8e-45d9-9a26-a0c65971b0c3)
+ ![cardboard_pred](https://github.com/user-attachments/assets/aabe4d80-0691-4908-a94b-e1304dcdc331)
 
 ---
 
